@@ -1,0 +1,14 @@
+{
+  "hash": "e54f578db5e0ac344531f0dd604a707e",
+  "result": {
+    "markdown": "---\ntitle: \"Test new blog post\"\nauthor: \"Someone\"\ndate: \"2022-08-15\"\ncategories: [code, analysis, something]\n---\n\n\nHere is my new blog post.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nexp(1 + 1 + 2)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 54.59815\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

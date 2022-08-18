@@ -1,0 +1,12 @@
+---
+title: "Test new blog post"
+author: "Someone"
+date: "2022-08-15"
+categories: [code, analysis, something]
+---
+
+Here is my new blog post.
+
+```{r}
+exp(1 + 1 + 2)
+```
